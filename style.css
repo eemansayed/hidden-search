@@ -46,3 +46,13 @@ transition: width 0.3s ease;
 .btn:focus, .input:focus {
   outline: none;
 }
+
+.search.active .input {
+}
+
+.search.active .input {
+}
+
+.search.active .input {
+  width: 200px;
+}
